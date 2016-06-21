@@ -6,15 +6,15 @@
         "source": {
             "type": "git",
             "url": "https://github.com/wtk13/wa1.git",
-            "reference": "6e5e27e00abf988f9b7547602e0d9c52d7155b70"
+            "reference": "1ea9ac465e61517544107dc097095a3d8fb9b4c0"
         },
         "dist": {
             "type": "zip",
-            "url": "https://api.github.com/repos/wtk13/wa1/zipball/6e5e27e00abf988f9b7547602e0d9c52d7155b70",
-            "reference": "6e5e27e00abf988f9b7547602e0d9c52d7155b70",
+            "url": "https://api.github.com/repos/wtk13/wa1/zipball/1ea9ac465e61517544107dc097095a3d8fb9b4c0",
+            "reference": "1ea9ac465e61517544107dc097095a3d8fb9b4c0",
             "shasum": ""
         },
-        "time": "2016-06-21 09:07:27",
+        "time": "2016-06-21 09:27:35",
         "type": "library",
         "installation-source": "source",
         "authors": [
