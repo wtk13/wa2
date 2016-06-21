@@ -1,0 +1,31 @@
+[
+    {
+        "name": "wtk/wa1",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/wtk13/wa1.git",
+            "reference": "6e5e27e00abf988f9b7547602e0d9c52d7155b70"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/wtk13/wa1/zipball/6e5e27e00abf988f9b7547602e0d9c52d7155b70",
+            "reference": "6e5e27e00abf988f9b7547602e0d9c52d7155b70",
+            "shasum": ""
+        },
+        "time": "2016-06-21 09:07:27",
+        "type": "library",
+        "installation-source": "source",
+        "authors": [
+            {
+                "name": "Wojtek",
+                "email": "rybinski05@gmail.com"
+            }
+        ],
+        "support": {
+            "source": "https://github.com/wtk13/wa1/tree/master",
+            "issues": "https://github.com/wtk13/wa1/issues"
+        }
+    }
+]
